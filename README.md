@@ -1,1 +1,2 @@
 # Task-7-Logistic-Regression-Titanic-Survival-Prediction
+This project builds a Logistic Regression model to predict Titanic passenger survival. The dataset was cleaned, missing values handled, and categorical features encoded. Data was split into training and testing sets. Model performance was evaluated using accuracy, precision, recall, F1-score, confusion matrix, and ROC-AUC. Results show the model can reasonably classify survivors and non-survivors, demonstrating core binary classification and evaluation skills for real world practice.
